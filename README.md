@@ -128,6 +128,4 @@ quiz-master/
 - [Lucide React](https://lucide.dev/) for the beautiful icons
 - [React](https://reactjs.org/) for the frontend framework
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
