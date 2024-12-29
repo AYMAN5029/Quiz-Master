@@ -5,7 +5,7 @@ A dynamic, interactive quiz application built with React, TypeScript, and Tailwi
 ![Quiz Master Screenshot](https://i.imgur.com/E7alU5L.png)
 
 ## Demo
-https://clever-griffin-a177aa.netlify.app/
+https://quiz-master-app-deploy.netlify.app/
 
 ## Features
 
